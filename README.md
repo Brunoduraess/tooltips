@@ -1,2 +1,2 @@
 # tooltips
-tooltip utilizando bootstrap
+tooltip utilizando bootstrap e JavaScript
